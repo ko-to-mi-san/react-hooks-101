@@ -5,7 +5,6 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 import EventForm from './EventForm'
 import Events from './Events'
 
-import Event from './Event'
 import reducer from '../reducers'
 
 const App = () => {
